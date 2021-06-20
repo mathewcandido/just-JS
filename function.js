@@ -1,9 +1,4 @@
 
-// async faz com que eu consiga fazer que minha function seja assincrona 
-// quando eu pego o const response e faço um fetch com o a url da API ele me retornar um promise
-// me retornando uma promessa logo eu coloco o await na frente para só executar quando a promessa não mais uma promesas de fato 
-
-
 
 async function fetchprodutos() {
 
